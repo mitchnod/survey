@@ -1,0 +1,33 @@
+#body{
+    margin: 0 auto;
+    background-color: lightgray;
+    width: 20%;
+    padding: 10px;
+    border: 2px solid black;
+}
+.row{
+    margin: 10px 0;
+}
+
+.form{
+    margin-bottom: 20px;
+}
+
+textarea{
+    height: 70px;
+    width: 75%;
+    margin: 10px 0 10px 0;
+}
+
+input, select{
+    margin-left: 10px;
+}
+
+button{
+    text-decoration: none;
+    background-color: royalblue;
+    border: 1px solid black;
+    color: white;
+    padding: 5px;
+}
+
